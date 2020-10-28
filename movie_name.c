@@ -2,7 +2,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
-#include "movie_rating.h"
+#include "movie_release_date.h"
 int main(int argc, char  *argv[])
 {
 	char* movie_name;
